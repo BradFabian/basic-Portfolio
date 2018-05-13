@@ -1,5 +1,50 @@
+
+
 body {
-    padding: 0px;
-    margin: 0px;
-    background-color:#eeeeee
+    background-image: "assets/images/dust_scrathes.png";
+    width: 120%;
+    
+}
+
+.mainHeader{
+    float: left;
+    
+
+    
+
+}
+
+.nameLogo{
+    float:left;
+    background-color:#4aaaa5;
+    padding:40px;
+    margin-top:0px;
+
+}
+
+.Navlink{
+
+    padding-top: 20px;
+    float:right;
+    background: #ffff;
+    border-top-style: solid;
+    border-color: red;
+    border-width: 20px;
+    width:120%;
+    
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.container{
+    clear:both;
+    width:960px;
+    background: #fff;
+    overflow: auto;
+    margin-left:auto;
+    margin-right:auto;
+    border: #ffff;
+    border-style: solid
 }
