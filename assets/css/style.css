@@ -131,13 +131,31 @@ body {
 
   .work{
     float: left;
+    
   }
   .work2{
     
     float:left;
+    margin-left: 20px;
     
   }
   .work3{
+    clear: left;
     float:left;
   }
-  
+
+
+  @media screen and (max-width: 980px){
+
+
+  }
+
+  @media screen and (max-width: 768px){
+
+
+  }
+
+  @media screen and (max-width: 640px){
+
+    
+  }
