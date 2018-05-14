@@ -128,4 +128,16 @@ body {
     padding-top: 130px;
     min-height: calc(100vh - 70px);
   }
+
+  .work{
+    float: left;
+  }
+  .work2{
+    
+    float:left;
+    
+  }
+  .work3{
+    float:left;
+  }
   
